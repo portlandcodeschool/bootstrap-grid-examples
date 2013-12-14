@@ -15,3 +15,9 @@ body .box:nth-child(3n+2) {
   height: 200px;
   border: 1px dashed;
 }
+
+#busey {
+  background: url('../img/gary_busey.jpg');
+  background-size: 100%;
+  background-position: center center;
+}
